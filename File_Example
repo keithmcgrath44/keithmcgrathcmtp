@@ -1,0 +1,23 @@
+How to add a file to Git:
+
+Save your file in your project folder.
+
+Open your terminal and navigate to your project folder.
+
+Run this command to add the file:
+
+
+
+git add <filename>
+(Replace <filename> with your actual file name.)
+
+Commit the change with a message:
+
+
+
+git commit -m "Add <filename>"
+Push the change to your remote repository:
+
+
+
+git push
